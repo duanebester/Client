@@ -1,0 +1,10 @@
+target/
+/.lib/
+
+*~
+/.ensime
+.idea/
+/.cache
+/.classpath
+/.project
+/.settings/
